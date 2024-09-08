@@ -1,6 +1,3 @@
-# Objective: Identify the most frequently occurring rating for each type of content.
-# 3. List All Movies Released in a Specific Year (e.g., 2020)
-# Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
